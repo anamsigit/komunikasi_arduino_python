@@ -1,0 +1,1 @@
+pakai pyfirmata bisa, dan telah teruji coba ges, alhamdulillah
