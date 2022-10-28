@@ -1,0 +1,2 @@
+pastikan baudrate dan portnya sesuai
+harus dalam lingkup while true
