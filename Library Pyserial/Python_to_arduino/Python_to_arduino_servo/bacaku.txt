@@ -1,2 +1,4 @@
 pastikan baudrate dan portnya sesuai
 harus dalam lingkup while true
+
+sisi client dapat dilihat pada kode saya YOLOX
